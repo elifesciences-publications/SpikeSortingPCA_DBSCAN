@@ -1,3 +1,9 @@
+
+
+
+### This code is associated with the paper from Hill et al., "The signaling lipid sphingosine 1-phosphate regulates mechanical pain". eLife, 2018. http://dx.doi.org/10.7554/eLife.33285
+
+
 # SpikeSortingPCA_DBSCAN
 Spike sorting implemented with principal component analysis (PCA) and density-based spatial clustering of applications with noise (DBSCAN) for extracellular differential electrode recordings. The primary functionality of this software package is for analyzing mechanical stimulation experiments, but it can be adapted for any type of experimental protocol.
 
